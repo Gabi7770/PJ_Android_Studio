@@ -4,4 +4,6 @@
     <string name="strEquipe">Equipe</string>
     <string name="strCursos">Cursos</string>
     <string name="strMidia">Mídia</string>
+    <string name="srtVoltar">Voltar</string>
+    <string name="strVoltar">Voltar</string>
 </resources>
